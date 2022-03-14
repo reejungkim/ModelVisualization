@@ -8,3 +8,4 @@ pip install dtreeviz
 pip install yellowbrick
 pip install graphviz
 ```
+<img src="img/decision_tree.png" height="500" width="500"> 
